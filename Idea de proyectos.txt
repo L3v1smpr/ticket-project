@@ -1,0 +1,8 @@
+Proyectos:
+
+1. Creación software de tickets con envío de correos y mensajes de whatsapp con un bot.
+
+Lenguajes a utilizar:
+
+	1-. Estética: React + Tailwind
+	2-. 
